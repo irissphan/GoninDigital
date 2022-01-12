@@ -14,7 +14,6 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using GoninDigital.ViewModels;
 using ModernWpf.Controls;
-using ModernWpf.Demo.ThreadedUI;
 
 namespace GoninDigital.Views
 {
